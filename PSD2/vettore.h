@@ -1,0 +1,16 @@
+void input_array(int *a, int n);
+void output_array(int *a, int n);
+int minimo(int *a, int n);
+void selection_sort(int *a, int n);
+void insert_sorted_array(int *a, int *n, int val);
+void insertion_sort(int *a, int n);
+void bubble_sort(int *a, int n);
+int adaptive_bubble_sort(int *a, int n);
+int binary_search(int *a, int n, int elem);
+int *input_array_dyn(int *size, char *line);
+int *concatena_vet(int *a, int *b, int j, int k);
+int input_array_str(int *arr, char *line);
+int somma(int *a, int n);
+void somma_vettori(int *a, int *b, int *c, int n);
+int prodotto_scalare(int *a, int *b, int n);
+int compare_arrays(int *a, int *b, int n, int m);
